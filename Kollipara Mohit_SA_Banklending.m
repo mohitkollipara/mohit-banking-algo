@@ -1,5 +1,4 @@
-%Final project
-%18IM10005, Ambati Saikrishna Teja
+
 
 %Simulated Annealing
 
